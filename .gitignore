@@ -1,0 +1,42 @@
+# Default ignored files
+/shelf/
+/.idea/workspace.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+# Datasource local storage ignored files
+/dataSources/
+/dataSources.local.xml
+
+#target
+*/target/**
+*/target/*
+target/
+/.class
+
+#.idea
+.idea
+.prefs
+.idea/*
+.iml
+
+#compiled class file
+*.class
+
+#Log file
+*.log
+
+#Package File #
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.rar
+*.tar.gz
+
+#eclipse
+.project
+**/.settings/
+*.bpmn2d
+/.metadata/
+*.dubbo/
